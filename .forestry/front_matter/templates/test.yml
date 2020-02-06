@@ -8,3 +8,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- src/pages/i-hope-i-m-doing-this-right.md
